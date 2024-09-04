@@ -1,4 +1,4 @@
-# Rishabh Joshi's personal webpage
+# Yi Zheng's personal webpage
 A simple and clean [Jekyll](https://jekyllrb.com/) theme for academics.
 
 **al-folio** is based on [\*folio theme](https://github.com/bogoli/-folio).
