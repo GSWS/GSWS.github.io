@@ -6,9 +6,9 @@ permalink: /publication/graph-perceiver-network
 excerpt: 'We present a graph-based deep learning framework that leverages hematoxylin and eosin–stained pathology images to stratify bronchial premalignant lesions and predict their progression to invasive lung squamous cell carcinoma.'
 date: 2024-03-11
 venue: 'The American Journal of Pathology'
-# slidesurl: 'http://GSWS.github.io/files/Graph Perceiver Network for Lung Tumor and Bronchial Premalignant Lesion Stratification from Histopathology.pdf'
+slidesurl: 'http://GSWS.github.io/files/Graph Perceiver Network for Lung Tumor and Bronchial Premalignant Lesion Stratification from Histopathology.pdf'
 paperurl: 'http://GSWS.github.io/files/Graph Perceiver Network for Lung Tumor and Bronchial Premalignant Lesion Stratification from Histopathology.pdf'
-# citation: 'R. Gindra, Y. Zheng, D. Venkatraman, R. Conrad, E. Green, S. Mazzilli, E. Billatos, M. Reid, E. Burks, V. B. Kolachalama, J. E. Beane, Graph perceiver network for lung tumor and bronchial premalignant lesion stratification
+citation: 'R. Gindra, Y. Zheng, D. Venkatraman, R. Conrad, E. Green, S. Mazzilli, E. Billatos, M. Reid, E. Burks, V. B. Kolachalama, J. E. Beane, Graph perceiver network for lung tumor and bronchial premalignant lesion stratification
 from histopathology The American Journal of Pathology (Am. J. Pathol. 2024).'
 ---
 
