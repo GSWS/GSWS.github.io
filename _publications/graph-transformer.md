@@ -3,12 +3,12 @@ title: "A deep learning-based graph-transformer for whole slide image classifica
 collection: publications
 category: manuscripts
 permalink: /publication/graph-transformer
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'We present a Graph-Transformer (GT) based framework for processing pathology data, called GTP, that interprets morphological and spatial information at the WSI-level to predict disease grade.'
 date: 2022-05-20
 venue: 'IEEE Transactions on Medical Imaging'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://GSWS.github.io/files/A_Graph-Transformer_for_Whole_Slide_Image_Classification.pdf'
-# citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+Authors: 'Y. Zheng, R. Gindra, M. Betke, J. E. Beane, V. B. Kolachalama'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Computational pathology, which entails the analysis of digitized pathology slides, is gaining increased attention over the past few years. The sheer size of a single whole slide image (WSI) typically can exceed a gigabyte, so traditional image analysis routines may not be able to fully process all this data in an efficient fashion. Modern machine learning methods such as deep learning have allowed us to make great progress in terms of analyzing WSIs including disease classification, tissue segmentation, mutation prediction, and spatial profiling of immune infiltration. Most of these methods rely on systematic breakdown of WSIs into image patches, followed by development of deep neural networks at patch-level and integration of outcomes on these patches to create overall WSI-level estimates. While patch-based approaches catalyzed research in the field, the community has begun to appreciate the conditions in which they confer benefit and in those where they cannot fully capture the underlying pathology. For example, methods focused on identifying the presence or absence of a tumor on an WSI can be developed on patches using computationally efficient techniques such as multiple instance learning. On the other hand, if the goal is to identify the entire tumor region or capture the connectivity of the tumor microenvironment characterizing the stage of disease, then it becomes important to assess both regional and WSI-level information. There are several other scenarios where both the patch- and WSI-level features need to be identified to assess the pathology, and methods to perform such analysis are needed.
