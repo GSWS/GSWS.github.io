@@ -9,6 +9,6 @@ venue: 'IEEE Transactions on Medical Imaging'
 slidesurl: 'http://GSWS.github.io/files/Graph_Attention-Based_Fusion_of_Pathology_Images_and_Gene_Expression_for_Prediction_of_Cancer_Survival.pdf'
 paperurl: 'http://GSWS.github.io/files/Graph_Attention-Based_Fusion_of_Pathology_Images_and_Gene_Expression_for_Prediction_of_Cancer_Survival.pdf'
 bibtexurl: 'http://GSWS.github.io/files/Graph_Attention-Based_Fusion_of_Pathology_Images_and_Gene_Expression_for_Prediction_of_Cancer_Survival.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Y. Zheng, R. D. Conrad, E. J. Green, E. J. Burks, M. Betke, J. E. Beane, V. B. Kolachalama, IEEE Transactions on Medical Imaging (IEEE TMI 2024)'
 ---
 We present an attention-based fusion architecture that integrates a graph representation of pathology images with gene expression data and concomitantly learns from the fused information to predict patient-specific survival.
