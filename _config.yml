@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yi Zheng | "
+title                    : "Yi Zheng"
 title_separator          : "-"
 name                     : &name "Yi Zheng"
 description              : &description "personal description"
