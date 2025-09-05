@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/uhta
 excerpt: 'UHT, short for UNet, Heatmap, and Textfill, uses a UNet to compute heatmaps for candidate text regions and a textfill algorithm to produce tight polygonal boundaries around each word in the candidate text.'
-date: 2022-05-20
+date: 2019-11-16
 venue: 'Computer Vision and Pattern Recognition Workshop'
 paperurl: 'http://GSWS.github.io/files/A_Method_for_Detecting_Text_of_Arbitrary_Shapes_in_Natural_CVPRW_2020_paper.pdf'
 citation: 'Q. Wang, Y. Zheng, and M. Betke, A method for detecting text of arbitrary shapes in natural scenes that improves text spotting, Computer Vision and Pattern Recognition Workshop 2020'
