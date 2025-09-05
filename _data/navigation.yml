@@ -13,12 +13,15 @@ main:
 
   # - title: "Talks"
   #   url: /talks/ 
+
+  - title: "Research"
+    url: /portfolio/
     
   - title: "Teaching"
     url: /teaching/
         
-  - title: "Research"
-    url: /portfolio/
+  # - title: "Research"
+  #   url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
