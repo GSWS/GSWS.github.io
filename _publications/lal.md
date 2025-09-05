@@ -1,7 +1,7 @@
 ---
 title: "LAL: Linguistically aware learning for scene text recognition"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/lal
 excerpt: 'Linguistically Aware Learning (LAL) scene text recognizer is a a bimodal framework that simultaneously utilizes visual and linguistic information to enhance scene text recognition performance.'
 date: 2020-10-12
