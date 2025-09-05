@@ -1,7 +1,7 @@
 ---
 title: "A method for detecting text of arbitrary shapes in natural scenes that improves text spotting"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/uhta
 excerpt: 'UHT, short for UNet, Heatmap, and Textfill, uses a UNet to compute heatmaps for candidate text regions and a textfill algorithm to produce tight polygonal boundaries around each word in the candidate text.'
 date: 2019-11-16
