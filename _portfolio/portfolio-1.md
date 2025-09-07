@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Fingerprint Minutiae Matching using Graph Neural Network with Geometric Invariant Features"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/graph-fingerprint-matching.png'>"
 collection: portfolio
 ---
