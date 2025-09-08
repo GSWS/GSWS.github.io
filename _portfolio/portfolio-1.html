@@ -1,7 +1,7 @@
 ---
 title: "Compact Minutiae Detection Model using a Non-NMS Tiny Object Detection"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/fingerprint-detection.png'>"
+excerpt: "Short description of non-NMS end-to-end minutiae detection <br/><img src='/images/fingerprint-detection.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+We explore a novel strategy to reduce redundant predictions in object detection by aligning the training and inference stages more closely. Traditional detectors often rely on a one-to-many assignment strategy during training, which leads to excessive outputs and necessitates post-processing such as non-maximum suppression (NMS). Our approach addresses this limitation by incorporating a classification-aware objective that naturally encourages one-to-one correspondence between predictions and ground-truth objects. This allows the model to eliminate the need for NMS and perform end-to-end detection more effectively.
