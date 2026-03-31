@@ -22,7 +22,7 @@ repository               : "GSWS/GSWS.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Yi_at_lab.jpeg"
+  avatar           : "Yi_at_lab.jpg"
   name             : "Yi Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in AI & Machine Learning"
